@@ -1,4 +1,4 @@
-Nama: Shabir
-NIM: Isi NIM kamu
-Angkatan: 2023
-Kelompok: 2
+Nama : Shabir
+NIM : D0223306
+Angkatan : 2023
+Alamat : Polewali
